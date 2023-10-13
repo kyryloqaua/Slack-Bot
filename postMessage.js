@@ -18,5 +18,5 @@ const conversationId = 'C05UPN42E12';
   });
 
   // The result contains an identifier for the message, `ts`.
-  console.log(`Successfully sent message in conversation ${conversationId}`);
+  console.log(result);
 })();
